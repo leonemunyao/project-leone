@@ -34,7 +34,8 @@ export default function Project() {
         title: "Loan Management System",
         year: "2024",
         description: "This is a loan management system built on the Internet Computer Protocol blockchain layer.",
-        image: "/images/project2.jpg"
+        image: "/images/loanmanagement.png",
+        link: "https://github.com/leonemunyao/defiloan"
       }
     ];
   
