@@ -1,6 +1,12 @@
 export default function Experience() {
   const experiences = [
     {
+      company: "Web 3 Hackathons",
+      position: "Hacker |",
+      period: "Jan 2024 - Present",
+      description: "I have participated and won in various Web 3 Hackathons which include, ICP Hub Kenya Interuniversity Hackathon, TUM Multidisciplinary Web 3 Hackathon, ICP Hub Kenya Memethon Hackerhouse and the ICP Hub Kenya 2024 Mega Hackathon. My particpation in these hackathons has contributed to my growth as a Web 3 Developer."
+    },
+    {
       company: "TUM Developers Club",
       position: "Social Media Manager |",
       period: "Jul 2023 - Aug 2024",
@@ -32,8 +38,8 @@ export default function Experience() {
           </div>
 
           <div className="space-y-8">
-            <div className="text-[100px] font-bold text-white/20 absolute top-20 right-8 pointer-events-none">
-              2023 - 2024
+            <div className="text-[80px] font-bold text-white/20 absolute top-20 right-8 pointer-events-none">
+              2023 - Present
             </div>
 
             <div className="space-y-12">

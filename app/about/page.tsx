@@ -27,10 +27,10 @@ export default function About() {
           <div className="relative h-[520px] hidden lg:block">
             <div className="absolute inset-0 rounded-lg overflow-hidden">
               <Image
-                src="/images/leone1.jpeg"
+                src="/images/coding love.jpeg"
                 alt="Leone Munyao"
                 fill
-                className="object-cover object-center grayscale"
+                className="object-cover object-center"
                 priority
                 sizes="(max-width: 768px) 100vw, 50vw"
               />

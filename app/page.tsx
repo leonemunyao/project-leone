@@ -19,13 +19,14 @@ export default function Home() {
               </h1>
               < div className="inline-block bg-[#5BB5F0]/10 px-6 py-1 rounded">
                 <p className="text-[#5BB5F0] font-mono text-sm">
-                  A Developer
+                  A Web 3 Developer
                 </p>
               </div>
             </div>
 
             <p className="text-gray-400 max-w-xl leading-relaxed">
-              Hello, I'm Leone Munyao, a Software and Web3 Developer passionate about creating innovative blockchain solutions and efficient, user-friendly applications. I'm passionate about using technology to solve problems and build a better, more connected world.
+              Hello, I'm Leone Munyao, a Software and Web3 Developer passionate about creating innovative Blockchain Solutions and Efficient, 
+              User-Friendly Applications. I'm passionate about using technology to solve problems and build a better, more connected world.
             </p>
 
             <div className="w-full h-[1px] bg-gradient-to-r from-[#5BB5F0] to-transparent" />
@@ -34,10 +35,10 @@ export default function Home() {
           <div className="relative h-[600px] hidden lg:block">
             <div className="absolute inset-0 rounded-lg overflow-hidden">
               <Image
-                src="/images/leone.jpeg"
+                src="/images/leone2.jpeg"
                 alt="Leone Munyao"
                 fill
-                className="object-cover object-center"
+                className="object-cover object-center animate-breathing"
                 priority
                 sizes="(max-width: 600px) 100vw, 50vw"
               />

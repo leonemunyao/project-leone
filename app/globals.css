@@ -74,3 +74,15 @@ body {
   }
 }
 
+@keyframes breathing {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+.animated {
+  animation: breathing 5s ease-in-out infinite;
+}
